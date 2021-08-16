@@ -1,2 +1,0 @@
-x = 'gi'
-print(x)
